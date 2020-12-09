@@ -7,6 +7,6 @@
 3. Caeser Cypher:
     * Using a fixed one letter change to all letters to encrypt.
 4. Polyalphabetic Ciphers:
-    * multiple alphabets are used to encipher text.
+    * Multiple alphabets are used to encipher text.
 5. Cipher:
     * A secrect way to encipher text in the form of a code.
